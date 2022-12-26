@@ -1,0 +1,35 @@
+body {
+    background-color: hsl(0, 0%, 0%);
+}
+
+main {
+    height: 385px;
+    width: 516px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+}
+
+img {
+    height: inherit;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+}
+
+.cardInfo {
+    margin: 20px;
+}
+
+.button {
+    background-color: rgb(40,59,11);
+}
+
+.itemDescription {
+
+}
+
+.price {
+
+}
